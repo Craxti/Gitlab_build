@@ -3,6 +3,14 @@
 
 Trigger gitlab build from github events
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Installation
 
 ### GitHub Configuration
