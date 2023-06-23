@@ -1,7 +1,7 @@
 import sys
 from hub2labhook.gitlab.client import GitlabClient
 
-def migrate_variables(project_source_id, project_target_id):
+def migrate_variables(project_source_id, project_target_id): #migrate
     client = GitlabClient()
     variables = client.get_variables(project_source_id)
 
