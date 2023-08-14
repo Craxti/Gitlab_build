@@ -1,5 +1,5 @@
 
-# FailAPI server
+# Gitlab build
 
 Trigger gitlab build from github events
 
